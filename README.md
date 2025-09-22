@@ -20,7 +20,7 @@ I specialize in building clean, efficient, and scalable solutions using **JavaSc
 - 📫 Reach me directly: *ankatsutskiridze@gmail.com*
 - 🔒 Most of my repositories are learning projects or personal experiments while exploring new technologies.
 
-💥 *Fun fact*: I started coding because I wanted to build real-world projects — now I can’t imagine doing anything else!
+💥 Fun fact: I first got into coding out of curiosity, but it quickly turned into a passion — now every project feels like solving a puzzle that I truly enjoy.
 
 ---
 
