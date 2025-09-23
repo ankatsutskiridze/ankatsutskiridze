@@ -54,7 +54,7 @@ I specialize in building clean, efficient, and scalable solutions using **JavaSc
 ### 📫 Contact Me
 
 - 📧 Email: ankatsutskiridze@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/ankatsutskiridze](https://www.linkedin.com/in/ankatsutskiridze)
+- 🌐 LinkedIn: [linkedin.com/in/ankatsutskiridze](https://www.linkedin.com/feed/)
 
 ---
 
